@@ -6,6 +6,6 @@ I will be adding hints and/or solutions for the popular Coursera course for Mach
 
 Note: please use this solution only as reference - after you have tried the problems yourself. Honor system applies, would be happy to assist and/or answer any questions.
 
-Apologies in advance for the coarse/untidy code at places - fair portions of it was writte aboard Via rail and airport lounges :).
+Apologies in advance for the coarse/untidy code at places - fair portions of it was written aboard Via rail and airport lounges :).
 
 Raeid Saqur 
