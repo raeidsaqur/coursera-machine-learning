@@ -1,4 +1,4 @@
-# Coursera: Ma chine Learning by Andrew Ng (Stanford University)
+# Coursera: Machine Learning by Andrew Ng (Stanford University)
 
 Undoubtedly one of the most popular courses on Coursera a.t.m. I briefly looked at the week 5 programming assignment for 'back propagation' as one of my students was facing some difficulty in solving it. 
 
